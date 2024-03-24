@@ -1,3 +1,5 @@
+> 아래 레포지토리를 fork하여, 주요내용을 요약하며 독학하고 있습니다.
+
 # Python으로 하는 인과추론 : 개념부터 실습까지
 
 ## Causal Inference for The Brave and True 책 번역 
